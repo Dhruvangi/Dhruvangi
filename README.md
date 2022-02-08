@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dhruvangi
 - 👀 I’m interested in Data Analyst/Business Analyst
 - 🌱 I’m currently learning Machine Learning
+-  Check out my Tableau Dashbords
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at dhruvangi2493@gmail.com
 
